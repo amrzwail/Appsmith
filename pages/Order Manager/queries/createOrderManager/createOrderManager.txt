@@ -1,0 +1,4 @@
+{
+	"username": {{SelectUser.selectedOptionValue}},
+	"salesGroups": {{SelectSalesGroups.selectedOptionValues}}
+}

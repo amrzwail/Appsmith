@@ -1,0 +1,70 @@
+{
+  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 13,
+  "boxShadow": "none",
+  "defaultOptionValue": "",
+  "dynamicBindingPathList": [
+    {
+      "key": "accentColor"
+    },
+    {
+      "key": "sourceData"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "sourceData"
+    },
+    {
+      "key": "onDropdownOpen"
+    }
+  ],
+  "dynamicTriggerPathList": [
+    {
+      "key": "onDropdownOpen"
+    }
+  ],
+  "isDisabled": false,
+  "isFilterable": true,
+  "isLoading": false,
+  "isRequired": true,
+  "isVisible": true,
+  "key": "619jjexa7y",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "",
+  "labelTextSize": "0.875rem",
+  "labelWidth": 5,
+  "leftColumn": 2,
+  "maxDynamicHeight": 18,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 11,
+  "mobileLeftColumn": 17,
+  "mobileRightColumn": 37,
+  "mobileTopRow": 4,
+  "needsErrorInfo": false,
+  "onDropdownOpen": "{{JS.getUsersWithoutRoleOM()}}",
+  "optionLabel": "label",
+  "optionValue": "",
+  "originalBottomRow": 15,
+  "originalTopRow": 8,
+  "parentColumnSpace": 10.375,
+  "parentId": "xswspu0607",
+  "parentRowSpace": 10,
+  "placeholderText": "Select option",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 62,
+  "serverSideFiltering": false,
+  "shouldScrollContents": true,
+  "sourceData": "{{getUsers.data}}",
+  "topRow": 6,
+  "type": "SELECT_WIDGET",
+  "version": 1,
+  "widgetId": "hszf03p02c",
+  "widgetName": "SelectUser"
+}
