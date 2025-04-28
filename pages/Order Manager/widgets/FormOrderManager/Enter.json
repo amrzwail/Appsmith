@@ -15,6 +15,7 @@
     }
   ],
   "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
   "iconAlign": "left",
   "inputType": "TEXT",
   "isDisabled": false,
@@ -22,7 +23,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "6ag87p8dtf",
-  "label": "Label",
+  "label": "Data",
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
@@ -49,5 +50,5 @@
   "type": "INPUT_WIDGET_V2",
   "version": 2,
   "widgetId": "ze3txz8304",
-  "widgetName": "Input1"
+  "widgetName": "Enter"
 }
