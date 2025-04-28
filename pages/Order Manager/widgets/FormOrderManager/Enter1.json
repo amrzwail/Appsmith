@@ -23,7 +23,7 @@
   "isRequired": false,
   "isVisible": true,
   "key": "6ag87p8dtf",
-  "label": "Data",
+  "label": "Data_1",
   "labelAlignment": "left",
   "labelPosition": "Top",
   "labelStyle": "",
@@ -38,6 +38,8 @@
   "mobileRightColumn": 27,
   "mobileTopRow": 35,
   "needsErrorInfo": false,
+  "originalBottomRow": 42,
+  "originalTopRow": 35,
   "parentColumnSpace": 4.49951171875,
   "parentId": "xswspu0607",
   "parentRowSpace": 10,
@@ -50,5 +52,5 @@
   "type": "INPUT_WIDGET_V2",
   "version": 2,
   "widgetId": "ze3txz8304",
-  "widgetName": "Enter"
+  "widgetName": "Enter1"
 }
